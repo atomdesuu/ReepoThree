@@ -1,0 +1,31 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyText
+  displacement: 9.99
+  enginetype: 1
+  cargocapacity: 1
+  drivenwheels: MyText
+  vinnumber: MyText
+  transmission: MyText
+  engineconfiguration: MyText
+  forcedinduction: false
+  passengerseats: 1
+  urgency: 1
+  idle: false
+  creator: one
+
+two:
+  name: MyText
+  displacement: 9.99
+  enginetype: 1
+  cargocapacity: 1
+  drivenwheels: MyText
+  vinnumber: MyText
+  transmission: MyText
+  engineconfiguration: MyText
+  forcedinduction: false
+  passengerseats: 1
+  urgency: 1
+  idle: false
+  creator: two

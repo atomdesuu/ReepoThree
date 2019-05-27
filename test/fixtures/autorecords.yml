@@ -1,0 +1,27 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  avgambienttemp: 9.99
+  barometricpressure: 1
+  avgengineload: 1
+  avrmp: 1
+  fuelconsumption: 1
+  avgenginetemp: 1
+  hspeed: 1
+  avgspeed: 1
+  automo: one
+  trip: one
+  runtime: 1
+
+two:
+  avgambienttemp: 9.99
+  barometricpressure: 1
+  avgengineload: 1
+  avrmp: 1
+  fuelconsumption: 1
+  avgenginetemp: 1
+  hspeed: 1
+  avgspeed: 1
+  automo: two
+  trip: two
+  runtime: 1

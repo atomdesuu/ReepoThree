@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  tittle: MyText
+  equipmentweight: 1
+  passengercount: 1
+  destination: MyText
+  details: MyText
+  urgency: 1
+  completed: false
+
+two:
+  tittle: MyText
+  equipmentweight: 1
+  passengercount: 1
+  destination: MyText
+  details: MyText
+  urgency: 1
+  completed: false
