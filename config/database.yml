@@ -81,5 +81,5 @@ test:
 production:
   <<: *default
   database: ApplicationP_production
-  username: atom
+  username: ApplicationP_production
   password:
